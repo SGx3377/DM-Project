@@ -8,7 +8,7 @@ Please first install turtle to run the graphics in python
 For installing use:
 
 
-pip install turtle
+pip install PythonTurtle
 
 
 The graphics will run in separate file
