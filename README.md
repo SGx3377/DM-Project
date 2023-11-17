@@ -7,7 +7,7 @@ Josephus.c - Modular Arithmetic and Recursive Approach
 
 Josephus_Graph.c - Graph Theory Approch
 
-All the other python files are for interactice implementations of Josephus Problem and its Variations
+All the other python files are for interactive implementations of Josephus Problem and its Variations
 
 For running these files please the steps below
 
